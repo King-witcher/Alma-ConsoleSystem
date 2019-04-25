@@ -1,0 +1,7 @@
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\bin\Debug\ConsoleSystem.exe.config
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\bin\Debug\ConsoleSystem.exe
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\bin\Debug\ConsoleSystem.pdb
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\obj\Debug\ConsoleSystem.csprojAssemblyReference.cache
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\obj\Debug\ConsoleSystem.csproj.CoreCompileInputs.cache
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\obj\Debug\ConsoleSystem.exe
+C:\Users\usuar\source\repos\ConsoleSystem\ConsoleSystem\obj\Debug\ConsoleSystem.pdb
